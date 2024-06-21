@@ -3,7 +3,7 @@
 
 This project offers free subdomains under the `kittdom.site` domain for anyone who needs a custom URL for their web project, Minecraft server, or anything else that can be pointed to via a DNS record.
 
-### What is "foo"?
+### What is "kit"?
 
 The term "kit" is a word often used for kitten cats. It doesn't have a specific meaning, but it's used to represent a generic name or concept when the actual name doesn't matter.
 
